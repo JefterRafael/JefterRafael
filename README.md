@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JefterRafael/JefterRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">Hi there, i'm Jefter Rafael! 👋</h1>
 
 ###
